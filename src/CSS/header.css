@@ -1,0 +1,21 @@
+/* 22C-3 */
+/* 27E */
+header> a{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+/*25C*/
+header{
+    height: 100px;
+    width: 100%;
+    background: black;
+    position: fixed;
+}
+/* 22C-1 */
+#brand{
+    color: white;
+}

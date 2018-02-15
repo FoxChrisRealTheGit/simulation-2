@@ -1,0 +1,10 @@
+
+
+.button{
+    display: flex;
+    position: absolute;
+    align-content: center;
+    justify-content: center;
+    top: 100px;
+    left: 50%;
+}
